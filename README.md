@@ -7,7 +7,7 @@
 
 class AboutMe:
   def __init__(self):
-    self.name = 'Krish"
+    self.name = 'Krish'
     self.languages = ['en_US', 'hi_IN', 'de_DE']
     self.facts = 'Currently learning PyTorch and Haskell. Maybe watching a show in free time.'
     self.ps = 'I love my girl, Sydney.'
